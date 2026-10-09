@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "category": "Healthcare",
+    "prompt": "How can I improve my immune system?"
+  },
+  {
+    "id": 2,
+    "category": "Technology",
+    "prompt": "Explain blockchain technology."
+  },
+  {
+    "id": 3,
+    "category": "Healthcare",
+    "prompt": "How can I improve my immune system?"
+  },
+  {
+    "id": 4,
+    "category": "Education",
+    "prompt": "Explain Newton's laws of motion."
+  },
+  {
+    "id": 5,
+    "category": "Finance",
+    "prompt": "Explain stock market volatility."
+  },
+  {
+    "id": 6,
+    "category": "Finance",
+    "prompt": "What is compound interest?"
+  },
+  {
+    "id": 7,
+    "category": "Technology",
+    "prompt": "What is cloud computing?"
+  },
+  {
+    "id": 8,
+    "category": "Healthcare",
+    "prompt": "What are early symptoms of diabetes?"
+  },
+  {
+    "id": 9,
+    "category": "Technology",
+    "prompt": "What is cloud computing?"
+  },
+  {
+    "id": 10,
+    "category": "Healthcare",
+    "prompt": "Explain blood pressure in simple terms."
+  }
+]
