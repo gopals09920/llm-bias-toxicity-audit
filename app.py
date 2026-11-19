@@ -24,7 +24,7 @@ if uploaded_file is not None:
   st.success("Custom dataset successfully loaded!")
 else:
   st.info(
-      "if you have No file uploaded. Using the prebuilt default dataset"
+      "No custom file uploaded. Using the prebuilt default dataset"
   )
   if os.path.exists(default_dataset_path):
     df_raw = pd.read_csv(default_dataset_path)
