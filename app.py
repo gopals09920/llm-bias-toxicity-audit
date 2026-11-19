@@ -40,7 +40,7 @@ if df_raw is not None:
 
   # User Input Box
   num_prompts = st.number_input(
-      "Kitne prompts test karne hain?",
+      "Number of prompts to audit ?",
       min_value=1,
       value=min(10, total_file_rows),
   )
